@@ -14,10 +14,6 @@ This repo describes how I downloaded and configured the VMs, set up an isolated 
 - [VM list & recommended hardware](#vm-list--recommended-hardware)  
 - [Step-by-step build runbook](#step-by-step-build-runbook)  
 - [Post-install checks & useful commands](#post-install-checks--useful-commands)  
-- [Troubleshooting & hiccups I encountered](#troubleshooting--hiccups-i-encountered)  
-- [Snapshots, backups & safety notes](#snapshots-backups--safety-notes)  
-- [Resume / LinkedIn friendly summary](#resume--linkedin-friendly-summary)  
-- [Appendix: netplan example, Wazuh basics, .gitignore](#appendix-netplan-example-wazuh-basics-gitignore)
 
 ---
 
