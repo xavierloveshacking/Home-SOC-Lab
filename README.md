@@ -1,8 +1,7 @@
 # Virtual Home SOC Lab
 
 A reproducible, documented home Security Operations Center (SOC) lab built with **VMware Workstation**.  
-This repo describes how I downloaded and configured the VMs, set up an isolated NAT network on the **10.0.0.0/24** subnet with DHCP starting at **10.0.0.10**, and solved common hiccups encountered during the build.
-
+This repo describes how I downloaded and configured the VMs, set up an isolated NAT network on the **10.0.0.0/24** subnet with DHCP starting at **10.0.0.10**
 ---
 
 ## Table of contents
